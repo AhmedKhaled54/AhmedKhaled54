@@ -116,6 +116,7 @@ var ahmed = new Developer
   <img src="https://img.shields.io/badge/Hangfire-507C5C?style=flat-square"/>
   <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square"/>
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square"/>
+   <a href="https://github.com/AhmedKhaled54/SocialMedia-App"><img src="https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github"/></a>
 </p>
 
 ---
@@ -133,7 +134,7 @@ var ahmed = new Developer
   <img src="https://img.shields.io/badge/EF_Core-512BD4?style=flat-square"/>
   <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square"/>
   <img src="https://img.shields.io/badge/REST_API-00B4D8?style=flat-square"/>
-  <a href="https://github.com/AhmedKhaled54/T-S3era"><img src="https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github"/></a>
+  <a href="https://github.com/AhmedKhaled54/T-S3era/tree/main/BackEnd/Ts3era/Ts3era"><img src="https://img.shields.io/badge/GitHub-View_Repo-181717?style=flat-square&logo=github"/></a>
 </p>
 
 ---
